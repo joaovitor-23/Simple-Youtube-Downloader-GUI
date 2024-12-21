@@ -1,1 +1,1 @@
- Simple Youtube Downloader
+ Simple GUI Youtube Downloader
